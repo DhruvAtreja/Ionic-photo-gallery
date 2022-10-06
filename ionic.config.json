@@ -1,7 +1,7 @@
 {
-  "name": "photo-gallery",
+  "name": "photo-gallery-capacitor-react",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular"
+  "type": "react"
 }
