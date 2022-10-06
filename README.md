@@ -1,5 +1,6 @@
 
-> A photo gallery app built with Ionic React and Capacitor in Javascript
+ A photo gallery app built with Ionic React and Capacitor in Javascript
+ You can click and upload images instantly
 
 
 ## Overview
